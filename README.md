@@ -1,3 +1,5 @@
+If you are interested to visit the live preview, CLICK HERE [https://hironsrrijan.github.io/covid19-tracker/]
+
 # React COVID Tracker
 
 ## Available Scripts
